@@ -11,7 +11,7 @@ print(os.getcwd())
 print(os.path.join("d:/GitWorkspace/", "py1.txt"))
 
 # split() function
-pathname = os.path.join("d:/GitWorkspace/", "py1.txt")
+pathname = os.path.join("d:/GitWorkspace/py1.txt")
 print(os.path.split(pathname))
 
 # Get metadata of the file
